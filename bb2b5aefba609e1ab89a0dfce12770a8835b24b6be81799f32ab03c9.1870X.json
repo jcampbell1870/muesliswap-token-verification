@@ -1,9 +1,10 @@
 {
   "policyId" : "bb2b5aefba609e1ab89a0dfce12770a8835b24b6be81799f32ab03c9"
-  "name" : "Standard 1870 Coin"
+  "name" : "1870CoinX"
   "symbol" : "1870X"
   "website" : "https://www.standard1870.ca"
   "description" : "Currency of the Standard 1870 Ecosystem"
   "totalSupply" : 500000000000,
   "amounts" : 1, 10, 100, 1000, 10000, 100000
+  "decimalPlaces" : "1 Token = 1 1870X = 0.00015 ADA"
   }
